@@ -8,7 +8,7 @@ Everyone is expected to follow the Code of Conduct in all community spaces, incl
 
 ## Reporting
 
-If you would like to report a violation, please do so by contacting the SciPy India team or through our [anonymous reporting form](TODO: link to reporting form here) . Please do not hesitate to report any behaviour that you believe violates the Code of Conduct, even if you are unsure whether it constitutes one.
+If you would like to report a violation, please do so by contacting the SciPy India team or through our [anonymous reporting form](TODO: link to reporting form here). Please do not hesitate to report any behaviour that you believe violates the Code of Conduct, even if you are unsure whether it constitutes a violation.
 
 ## Enforcement
 
