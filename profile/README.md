@@ -22,3 +22,7 @@ We are a multidisclipinary community and annual conference for users, developers
 - [Twitter](https://twitter.com/scipyindia)
 - [YouTube](https://www.youtube.com/c/SciPyIndia)
   -->
+
+### Other resources
+
+- View our [Code of Conduct](../CODE_OF_CONDUCT.md), and report any violations via the [CoC Reporting Form](https://form.jotform.com/scipyindia/scipy-india-coc-reporting-form)
