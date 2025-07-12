@@ -1,6 +1,6 @@
 # SciPy India Code of Conduct
 
-SciPy India is a multidisciplinary community and forum for users and developers of the SciPy stack in India. Our community is built on the principles of collaboration, inclusivity, and respect for all participants. We strive to create an environment where everyone feels welcome and valued. We are committed to providing a welcoming and inspiring community for all, regardless of background, identity, or experience. We expect that all participants treat each other with respect and kindness.
+SciPy India is a multidisciplinary community and forum for users and developers of the SciPy stack in India. Our community is built on the principles of collaboration, inclusivity, and respect for all participants. We strive to create a community where everyone feels included and valued. We are committed to providing a welcoming and inspiring community for all, regardless of background, identity, or experience. We expect that all participants treat each other with dignity and kindness.
 
 The SciPy India community has adopted and strictly follows the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct). This document outlines our expectations for participants within the community and provides a mechanism for reporting unacceptable behaviour and addressing grievances that may arise.
 
