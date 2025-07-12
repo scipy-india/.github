@@ -4,7 +4,7 @@ SciPy India is a multidisciplinary community and forum for users and developers 
 
 The SciPy India community is governed by the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct). This document outlines our expectations for participants within the community and provides a mechanism for reporting unacceptable behaviour and addressing grievances that may arise.
 
-Everyone is expected to follow the Code of Conduct in all community spaces, including online or physical fora, meetups, events, workshops, conferences, and any other interactions related to SciPy India.
+Everyone is expected to follow the Code of Conduct in all community spaces, including online or physical fora (GitHub, Zulip, and more), meetups, events, workshops, conferences, and any other in-person interactions between members at SciPy India gatherings.
 
 ## Reporting
 
