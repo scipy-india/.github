@@ -12,7 +12,7 @@ If you would like to report a violation, please do so by contacting the SciPy In
 
 ## Enforcement
 
-A dedicated team will review all reports and take appropriate action, which may include warnings, temporary or permanent bans from community spaces, or other measures deemed necessary to ensure a safe and welcoming environment for all participants.
+A dedicated team will review all reports and take appropriate action as per the NumFOCUS Code of Condut. This may include warnings, temporary or permanent bans from community spaces, or other measures deemed necessary to ensure a safe and welcoming environment for all participants.
 
 ## Contact
 
