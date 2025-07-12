@@ -10,14 +10,6 @@ Everyone is expected to follow the Code of Conduct in all community spaces, incl
 
 If you would like to report a violation, please do so by contacting the SciPy India team or through our [anonymous reporting form](TODO: link to reporting form here) . Please do not hesitate to report any behaviour that you believe violates the Code of Conduct, even if you are unsure whether it constitutes one.
 
-When reporting, please provide as much detail as possible, including:
-
-- A description of the incident
-- The names of any individuals involved
-- The date and time of the incident
-- Any witnesses or evidence (e.g., screenshots, links)
-- Your contact information (should you wish to be contacted for following up)
-
 ## Enforcement
 
 A dedicated team will review all reports and take appropriate action, which may include warnings, temporary or permanent bans from community spaces, or other measures deemed necessary to ensure a safe and welcoming environment for all participants.
