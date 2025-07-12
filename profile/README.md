@@ -4,9 +4,9 @@ We are a multidisclipinary community and annual conference for users, developers
 
 ## Quick links
 
-### Looking to propose a talk or workshop?
+### Looking to propose a talk or session at SciPy meet-ups?
 
-- [Propose a talk or workshop](https://github.com/scipy-india/proposal-reviewing/issues/new?template=talk-proposal.yaml)
+- [Propose a talk or session](https://github.com/scipy-india/proposal-reviewing/issues/new?template=talk-proposal.yaml)
 
 ### SciPy India elsewhere
 
@@ -22,3 +22,10 @@ We are a multidisclipinary community and annual conference for users, developers
 - [Twitter](https://twitter.com/scipyindia)
 - [YouTube](https://www.youtube.com/c/SciPyIndia)
   -->
+
+### Code of Conduct
+
+- [SciPy India's CoC](https://github.com/scipy-india/.github/blob/main/CODE_OF_CONDUCT.md)
+- [CoC Reporting Form](https://form.jotform.com/scipyindia/scipy-india-coc-reporting-form)
+
+Thank you for visiting :)
