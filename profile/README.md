@@ -4,7 +4,7 @@ We are a multidisciplinary community and annual conference for users, developers
 
 ## Quick links
 
-### Looking to propose a talk or session at the SciPy India Community Calls?
+### Looking to propose a talk or session for the SciPy India Community Calls?
 
 - [Propose a talk or session](https://github.com/scipy-india/proposal-reviewing/issues/new?template=talk-proposal.yaml)
 
