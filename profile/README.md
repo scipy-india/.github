@@ -10,9 +10,9 @@ We are a multidisciplinary community and annual conference for users, developers
 
 ### SciPy India elsewhere
 
-- Visit our [website](https://scipyindia.org)
-- Join our [Zulip chat](https://scipyindia.zulipchat.com)
-- View the [SciPy India chapter on the FOSS United platform](https://fossunited.org/c/scipy-india/meetup/july-2025)
+- Visit our [website](https://scipy-india.github.io/)
+- Join our [Zulip chat](https://scipyindia.zulipchat.com/join/4mesdxfbbpl4titgtdzx4iwv/)
+- View the [SciPy India chapter on the FOSS United platform](https://fossunited.org/c/scipy-india)
 
 ### Social media
 
