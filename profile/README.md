@@ -18,7 +18,8 @@ We are a multidisciplinary community and an annual conference for users, develop
 
 - [LinkedIn](https://www.linkedin.com/company/scipyindia)
 - [Mastodon](https://fosstodon.org/@scipyindia)
-- [Bluesky](https://bsky.app/profile/scipyindia.bsky.social)
+- [Bluesky](https://bsky.app/profile/scipy.in)
+- [Instagram](https://www.instagram.com/scipyindia)
 <!-- TODO: Uncomment when sorted out
 - [Twitter](https://twitter.com/scipyindia)
 - [YouTube](https://www.youtube.com/c/SciPyIndia)
