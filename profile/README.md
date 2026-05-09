@@ -1,6 +1,6 @@
 # SciPy India
 
-We are a multidisciplinary community and annual conference for users, developers, maintainers, and enthusiasts of the scientific Python stack in India. This GitHub organisation hosts the repositories for the SciPy India community, including our (currently online) community calls, proposal reviews, annual conference, workshops, archives, and other related projects.
+We are a multidisciplinary community and an annual conference for users, developers, maintainers, and enthusiasts of the scientific Python stack in India. This GitHub organisation hosts the repositories for the SciPy India community, including our (currently online) community calls, proposal reviews, annual conference, workshops, archives, and other related projects.
 
 ## Quick links
 
@@ -10,7 +10,7 @@ We are a multidisciplinary community and annual conference for users, developers
 
 ### SciPy India elsewhere
 
-- Visit our [website](https://scipy-india.github.io/)
+- Visit our [website](https://scipy.in)
 - Join our [Zulip chat](https://scipyindia.zulipchat.com/join/4mesdxfbbpl4titgtdzx4iwv/)
 - View the [SciPy India chapter on the FOSS United platform](https://fossunited.org/c/scipy-india)
 
