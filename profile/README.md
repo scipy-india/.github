@@ -27,7 +27,7 @@ We are a multidisciplinary community and an annual conference for users, develop
 
 ### Code of Conduct
 
-- [SciPy India's CoC](https://github.com/scipy-india/.github/blob/main/CODE_OF_CONDUCT.md)
+- [SciPy India's CoC](https://scipy.in/coc)
 - [CoC Reporting Form](https://form.jotform.com/scipyindia/scipy-india-coc-reporting-form)
 
 Thank you for visiting :)
