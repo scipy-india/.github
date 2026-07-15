@@ -25,6 +25,8 @@ We are a multidisciplinary community and an annual conference for users, develop
 - [YouTube](https://www.youtube.com/c/SciPyIndia)
   -->
 
+For all other general queries, please reach out to us via email at [info@scipy.in](mailto:info@scipy.in).
+
 ### Code of Conduct
 
 - [SciPy India's CoC](https://scipy.in/coc)
